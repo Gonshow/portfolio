@@ -16,7 +16,7 @@ margin-left: 5%;
 .footer {
   border-top: rgba(12, 50, 78, 0.4) 3px solid;
     position: relative;
-    margin: 2em 0;
+    margin-bottom: 40px;
     border-top: solid 1px #777777;
 }
 .footer:before, .footer:after{

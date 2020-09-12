@@ -44,9 +44,8 @@
       <Works id="works"></Works>
       <Contact id="contact"></Contact>
       <div class="tohome">
-        <a href="#"  @click="clickSmoothScroll('#top')">
-          <h3><img src="./assets/home2.png" width="100">Home</h3>
-        </a>
+        <img src="./assets/home2.png" width="100" class="home">
+        <a href="#" class="comment" @click="clickSmoothScroll('#top')">Home</a>
       </div>
       <Footer></Footer>
   </div>
@@ -158,10 +157,6 @@ box-shadow: 2px 0px 4px 0px gray
 }
 .message {
   padding: 20px;
-}
-.tohome {
-text-align: left;
-margin-left: 0%;
 }
 a {
 color:#2c3e50;

@@ -4,9 +4,9 @@
     <div class="contact-container">
       <h2> Click !!</h2>
       <div class="link">
-        <a href="https://www.instagram.com/kunnerzhigh/" class="link-icon"><img src='~@/assets/insta.png' width="70"></a>
-        <a href="https://www.facebook.com/exit.ajisai/" class="link-icon"><img src='~@/assets/facebook.png' width="70"></a>
-        <a href="https://github.com/Gonshow" class="link-icon"><img src='~@/assets/github-icon.svg' width="70"></a>
+        <a href="https://www.instagram.com/kunnerzhigh/" class="link-icon" target="_blank"><img src='~@/assets/insta.png' width="70"></a>
+        <a href="https://www.facebook.com/exit.ajisai/" class="link-icon" target="_blank"><img src='~@/assets/facebook.png' width="70"></a>
+        <a href="https://github.com/Gonshow" class="link-icon" target="_blank"><img src='~@/assets/github-icon.svg' width="70"></a>
         <a href="mailto:i2030012@uec.cc.uec.ac.jp" class="link-icon"><img src='~@/assets/mail.png' width="70"></a>
       </div>
     </div>
